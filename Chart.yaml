@@ -1,0 +1,8 @@
+apiVersion: v2
+name: multiple-namespace-test
+version: 0.1.0
+description: Multiple Namespace Helm chart
+appVersion: 0.0.1
+maintainers:
+  - name: Alexandru Pasare
+    email: alexandru.pasare@bunnyshell.com
